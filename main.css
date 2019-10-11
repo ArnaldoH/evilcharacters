@@ -1,0 +1,218 @@
+.indexb {
+    background-image: url("https://cdn.dribbble.com/users/1975739/screenshots/5849608/ice_kingdom_2x.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.indexh {
+    font-family: 'Mansalva', cursive;
+    width:40%;
+    text-align:center;
+    margin: 0 auto;
+    font-size:30px;
+    text-shadow: -5px 2px gray;
+    color:blue;
+    text-decoration: underline;
+    margin-bottom:20px;
+}
+.indexn {
+    display:flex;
+    font-family: 'Mansalva', cursive; 
+    text-shadow: -5px 2px LightBlue;
+    justify-content: space-around;
+}
+.ia {
+    font-size:28px;  
+    color: black;
+    
+}
+.ia:hover {
+    font-size:30px;  
+}
+.iimg {
+    width:170px;
+    height:200px;
+    padding-top:20px;
+}
+.indexf {
+    display:flex;
+    justify-content:flex-start;
+    margin-top: 230px;
+}
+.item {
+    display:flex;
+    align-content:center;
+    flex-direction:column;
+    text-align:center;
+    width:20%;
+    background-color: hsla(223, 69%, 56%, 0.82);
+    padding:10px;
+    border:solid black 1px;
+    border-radius: 30px;
+}
+.gimg {
+    width:300px;  
+    height:200px;
+    margin-top:20px;
+    border-radius:20px;
+}
+.galleryh {
+    font-family: 'Mansalva', cursive;
+    width:40%;
+    text-align:center;
+    margin: 0 auto;
+    font-size:30px;
+    text-shadow: -5px 2px gray;
+    color:blue;
+    text-decoration: underline;
+}
+.galleryn {
+    display:flex;
+    font-family: 'Mansalva', cursive;   
+    justify-content: space-around;
+    margin-bottom:30px;
+    font-size:38px;
+}
+.ga {
+    color:blue;
+    text-shadow: -5px 2px gray;
+}
+.ga:hover {
+    font-size:40px;   
+}
+.galleryb {
+    background-image: url("https://wordpress.accuweather.com/wp-content/uploads/2019/02/snow-in-pinehurst-seattle-washington-2-9-19.31.5620AM.png");
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.galleryf {
+    width:60%;
+    background-color:hsla(200, 73%, 71%, 0.92);
+    margin: 0 auto;
+    padding:20px;
+    text-align:center;
+    border:solid black 2px;
+    margin-top:30px;
+    margin-bottom:30px;
+    border-radius: 10px;
+}
+.galleryfp {
+    font-size:40px;
+    color: blue;
+    text-shadow: -5px 2px Lightblue;
+    font-family: 'Mansalva', cursive; 
+}
+.gallery {
+    border:solid black 2px; 
+    width:50%;
+    margin: 0 auto;
+    text-align:center;
+    background-color: hsla(244, 73%, 71%, 0.92);
+}
+.first {
+    height:300px;   
+}
+.third {
+    height:400px;   
+}
+.storeb {
+    background-image: url("https://www.wallpaperflare.com/static/353/659/592/adventure-time-the-ice-king-ice-king-adventure-wallpaper.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.storen {
+    display:flex;
+    font-family: 'Mansalva', cursive;   
+    justify-content: space-around;
+    margin-bottom:30px;
+    font-size:38px;
+}
+.storea {
+    color:GreenYellow;
+    text-shadow: -5px 2px gray;
+}
+.storea:hover {
+    font-size:40px;   
+}
+.storeh {
+    font-family: 'Mansalva', cursive;
+    width:40%;
+    text-align:center;
+    margin: 0 auto;
+    font-size:30px;
+    text-shadow: -5px 2px gray;
+    color:GreenYellow;
+    text-decoration: underline;
+}
+.simg {
+    width:200px; 
+    height: 300px;
+    border-radius:10px;
+}
+.storef {
+    margin:20px;
+    text-align:center;
+    color: GreenYellow;
+    font-family: 'Mansalva', cursive;
+}
+.sf {
+    margin-top:10px;   
+}
+.container {
+    display:flex; 
+    justify-content:space-between;
+    width: 75%;
+    margin: 0 auto;
+    background-color:hsla(297, 0%, 13%, 0.52);
+    border-radius: 30px;
+}
+.aboutb {
+    background-image: url("https://i.pinimg.com/originals/94/bb/de/94bbde45c7ecf4417c8de08bbdc1ba48.jpg");
+    background-size:cover;   
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.aboutn {
+    display:flex;
+    font-family: 'Mansalva', cursive;   
+    justify-content: space-around;
+    margin-bottom:30px;
+    font-size:38px;
+}
+.aa {
+    color:black;
+    text-shadow: -5px 2px gray;
+}
+.aa:hover {
+    font-size:40px;   
+}
+.abouth {
+    font-family: 'Mansalva', cursive;
+    width:40%;
+    text-align:center;
+    margin: 0 auto;
+    font-size:30px;
+    text-shadow: -5px 2px gray;
+    color:black;
+    text-decoration: underline;
+}
+.content {
+    font-family: 'Mansalva', cursive;
+    font-size: 17px;
+    color:white;
+    width:75%;
+    margin: 0 auto;
+    text-align:center;
+    background-color: hsla(59, 3%, 33%, 0.82);
+    border-radius:15px;
+    border: white 2px solid;
+    padding:20px;
+}
+.aboutimg {
+    width:300px;
+    border-radius:10px;
+    border:solid black 2px;
+}
